@@ -3,4 +3,5 @@ button{
     width:150px;
     background-color: rgb(78, 73, 243);
     color: azure;
+    border-radius: 200px;
 }
